@@ -1,3 +1,9 @@
+# user defined
+*.dat
+*.bz2
+LICENSE.TXT
+
+# old
 MANIFEST
 build
 dist
